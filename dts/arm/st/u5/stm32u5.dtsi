@@ -21,6 +21,7 @@
 #include <zephyr/dt-bindings/adc/stm32u5_adc.h>
 #include <zephyr/dt-bindings/power/stm32_pwr.h>
 #include <freq.h>
+#include <mem.h>
 
 / {
 	chosen {
